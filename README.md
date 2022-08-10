@@ -1,1 +1,1 @@
-# sentiment-analysis-covid-news
+# Sentiment Analysis of COVID News Stories
